@@ -12,3 +12,4 @@ pygeoip==0.3.2
 gevent==1.2.1
 bs4==0.0.1
 beautifulsoup4==4.6.0
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability

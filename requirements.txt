@@ -4,7 +4,7 @@ elasticsearch
 reportlab
 psutil
 paramiko
-dnspython==1.15.0
+dnspython==2.6.0rc1
 splinter==0.7.5
 celery==3.1.25
 flower==0.7.3
